@@ -1,2 +1,6 @@
-01 Saturno
-02 Urano
+01 Mercúrio
+02 Vênus
+03 Terra
+04 Marte
+05 Júpiter
+06 Saturno
